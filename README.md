@@ -1,18 +1,18 @@
-**Name:** KUMAR MAKKALA  
+**Name:** SUNDAR RAJ B 
 **Company:** CODTECH IT SOLUTIONS  
-**ID:** CT08WD39  
+**ID:** CT08DS1391 
 **Domain:** Data Analytics  
-**Duration:** May to June 2024  
+**Duration:** JUNE to JULY 2024  
 **Mentor:** SRAVANI GOUNI  
 
 
 ## Overview of the Project
 
-### Project: Exploratory Data Analysis (EDA) on World Population Dataset
+### Project: Exploratory Data Analysis (EDA) on Men Perfume sales Dataset
 ![Screenshot 2024-06-02 141419](https://github.com/HemanthRandom/CODTECH-Task1/assets/171478484/29151158-7f7d-4e39-a328-2f6fa81c8910)
 
 ### Objective
-The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset containing population data from 1970 to 2022 for countries around the world. The aim is to uncover insights into population trends, distributions, correlations, and outliers through visualizations.
+This repository contains the code and analysis for performing Exploratory Data Analysis (EDA) on a dataset of men's perfumes listed on eBay. The goal is to explore the dataset, understand its structure, and visualize various aspects to gain insights.
 
 ### Key Activities
 - **Data Cleaning**: Ensuring the dataset is free from inconsistencies and missing values.
