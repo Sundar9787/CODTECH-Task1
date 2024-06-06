@@ -1,8 +1,6 @@
 **Name:** SUNDAR RAJ B 
-
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT08DS1391 
-
 **Domain:** Data Analytics  
 **Duration:** JUNE to JULY 2024  
 **Mentor:** SRAVANI GOUNI  
